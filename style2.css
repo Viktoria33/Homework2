@@ -1,0 +1,30 @@
+.block {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top: 80px;
+    background: white;
+    border: 3px solid black;
+    align-items: center;
+  }
+  
+  .blocktl{
+    width: 400px;
+      height: 400px;
+      background: rgba(194, 15, 15, 0.884);
+    }
+  
+    .blockbr{
+      width: 400px;
+      height: 400px;
+      background: rgb(56, 56, 187);
+      margin-top:-200px; 
+      margin-left:200px;
+    }
+    .blockcenter{
+      width: 400px;
+      height: 400px;
+      background: rgb(28, 151, 28);
+      margin-top: -500px;
+      margin-left: 100px;
+    }

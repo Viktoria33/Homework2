@@ -1,0 +1,32 @@
+body, html {
+    margin: 0;
+}
+table {
+    width: 100%;
+    height: 120px;
+    background: white;
+    color: white;
+    border-spacing: 12px;
+   }
+   td, th {
+    background: #df7819;
+    padding: 6px;
+   }
+  .part th {
+  background: rgb(136, 224, 48);
+   }
+  
+   .part {
+     height: 250px;
+   }
+  
+  .parts3 th{
+    background: rgb(22, 127, 187);
+    height: 120px;
+    padding-right: 5px;
+  }
+  
+  .parts4 th{
+    background: #b4b4b4;
+    height: 180px;
+  }

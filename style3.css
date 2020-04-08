@@ -1,0 +1,53 @@
+html, body{
+    height: 100%; 
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 90%;
+    height: 15%;
+    background: rgb(0, 255, 255);
+    margin:0 5%;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+  }
+  p{
+    width: 90%;  
+  }
+  .menu{
+    width: 10%;
+    height: 600px;
+    position: fixed;
+    background:rgba(233, 193, 14, 0.5);
+    
+  }
+   
+  a:link { 
+    color: #036; /* Цвет непосещенных ссылок */
+   }
+  a:visited { 
+    color: #606; /* Цвет посещенных ссылок */
+   }
+   a:hover { 
+    color: #f00; /* Цвет ссылок при наведении на них курсора мыши */
+   }
+   a:active { 
+    color: #ff0; /* Цвет активных ссылок */
+     }
+  
+  .center{
+    margin: 187px;
+    margin-top: 10px;
+  
+  }
+  
+  footer{
+    width: 90%;
+    height: 15%;
+    background: rgb(144, 143, 145);
+    margin:0 5%;    
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    text-align: center;
+  }
